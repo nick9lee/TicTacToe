@@ -1,12 +1,4 @@
 
-
-//STUDENTS SHOULD ADD CLASS COMMENTS, METHOD COMMENTS, FIELD COMMENTS 
-
-/***
- * Contains most of the game logic and displays the game to the console.
- * @author University of Calgary
- *
- */
 public class Board implements Constants {
 	private char theBoard[][];
 	private int markCount;
