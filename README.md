@@ -1,4 +1,8 @@
 # TicTacToe
-text-based tictactoe game
+console-based tictactoe game
 
-the main is in Game.java
+main is in Game.java
+
+to run in terminal write
+javac Game.java - to create class files
+java Game.java - to run in terminal
