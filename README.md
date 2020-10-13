@@ -3,6 +3,7 @@ A console based version of tic tac toe that features 4 different ways of playing
 
 main is in Game.java
 
+
 to run in terminal write
 javac Game.java - to create class files
 java Game - to run in terminal
