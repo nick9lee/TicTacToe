@@ -6,5 +6,6 @@ main is in Game.java
 
 to run in terminal write
 
-"javac Game.java" to create class files
+"javac Game.java" to create class files, then
+
 "java Game" to run in terminal
